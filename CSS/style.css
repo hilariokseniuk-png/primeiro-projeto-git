@@ -1,0 +1,24 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Manufacturing+Consent&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+h1{ color: blue;
+    font-size: 64px;
+    font-weight: 900;
+    font-family: "Roboto", sans-serif;
+} ;
+
+p{color: green;/* troca a cor do testo*/
+  font-size:  30px; /*tamanho da fonte*/
+  font-weight:  900px;/*grossura da fonte*/
+  font-family: "Roboto", sans-serif; /*sera o stilo da font. o link é copiado do google fontes e colado tanto no  html como no css syle*/
+  font-style: italic;/*estilo da fonte*/
+  line-height: 30px;/*espaçamento entre as linhas*/
+  letter-spacing: 30px;/*espaçamento entre a letras*/
+  word-spacing: 30px;/*espaçamento entre as palavras*/
+  text-align: justify; /*posicionamento da frase. lateral ou centro.*/
+  text-transform: capitalize;/*primeira letra das palavras todas çmaiúsculas.*/
+  text-decoration: overline;/*decora o testo com linhas em cima ou em baixo.*/
+  text-shadow: 10px 10px 10px red; /* no text shadon sao 4 configuraçoes. orizontal, vertical, densidade da sombra e a cor.*/
+  
+};

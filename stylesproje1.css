@@ -1,0 +1,42 @@
+*{
+font-family: "Montserrat", sans-serif;
+margin:0 ;
+padding:0 ;
+box-sizing:border-box;
+}
+
+header{margin: 44px 0px 144px 76px;
+}
+
+
+.link-header{ 
+   font-weight:600 ; 
+   font-size: 24px;
+   line-height:29px ;
+   color: #12d7b0; 
+   cursor: pointer;
+   border: none;
+   margin-right: 23px;
+}
+.button-header{
+    background: #2c1cd8;
+    border-radius: 20.5px;
+    width: 130px;
+    border:none;
+    height: 41px;
+    font-weight:600 ;
+    font-size:24px ;
+    line-height: 29px;
+    color: #ffffff;
+}
+
+.logo-image{
+    width: 568px;
+    height: 500px;
+    margin-left:125px;
+    display: inline-block;
+
+}
+section{display: inline-block;
+
+}

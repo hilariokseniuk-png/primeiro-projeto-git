@@ -1,0 +1,39 @@
+/*padding e margin*/
+.box{/*precisa ter box pois é uma classe. vai AUMENTAR O TAMANHO DA DIV.*/
+     width: 50px;
+     height: 50px;
+     background: red;
+     margin: 20px; /*cria afastamento entre as div*/
+    /* padding: 70px;*/ }/*AUMENTA O TAMANHO DA CAIXA*/
+     
+.box-2{width: 50px;
+       height: 50px;
+       background-color: blue;
+       margin: 50px;/*margin é externo*/
+       padding: 60px;}/*padding é interno*/
+.box-3 {width: 50px;
+       height: 50px;
+       background-color: blue;
+       margin: 50px;/*margin é externo*/
+       padding: 60px;  } /* display= block,inline e inline-bloque
+pega toda a linha ao lado da div, ajusta todas as dives em linha mas adaptando o tamanho
+,mantem todas as divs em linha sem alterar o tamanho das dives.*/
+
+
+
+/*obs: pading e margin podem ser ajustadas com os lados com espaços diferentes: top, right, lefeet, booton.*/
+/* margin top- hight- botoon- esquerdo
+          12h  15h    18h     21h
+          esse é o atalho do relogio
+          50px 50px   50px    50px  */
+
+
+
+
+/*box-sizing: border box:50 ; aumenta o tamanho da borda e diminui o espaço interno da div.
+ *{ quando tiver o asterisco antes dos colchetes do style quer dize que a configuraçao sera aplicada para todos os elementos.*/            
+
+
+
+
+}
